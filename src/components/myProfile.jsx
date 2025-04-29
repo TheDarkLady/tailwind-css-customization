@@ -1,6 +1,6 @@
 import React from 'react'
 
-function myProfile() {
+function MyProfile() {
   return (
     <div>
       <h1> My Profile Component</h1>
@@ -8,4 +8,4 @@ function myProfile() {
   )
 }
 
-export default myProfile
+export default MyProfile

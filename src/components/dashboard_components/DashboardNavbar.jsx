@@ -1,6 +1,6 @@
 import React from 'react'
 
-function dashboarNavbar() {
+function DashboarNavbar() {
   return (
     <div>
       <h1> DashBoard Navbar Component</h1>
@@ -8,4 +8,4 @@ function dashboarNavbar() {
   )
 }
 
-export default dashboarNavbar
+export default DashboarNavbar

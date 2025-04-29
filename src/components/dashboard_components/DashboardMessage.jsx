@@ -1,6 +1,6 @@
 import React from 'react'
 
-function dashboardMessage() {
+function DashboardMessage() {
   return (
     <div>
       <h1> DashBoard Message Component</h1>
@@ -8,4 +8,4 @@ function dashboardMessage() {
   )
 }
 
-export default dashboardMessage
+export default DashboardMessage

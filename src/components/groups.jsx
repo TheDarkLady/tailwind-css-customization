@@ -1,6 +1,6 @@
 import React from 'react'
 
-function groups() {
+function Groups() {
   return (
     <div>
       <h1> Groups Component</h1>
@@ -8,4 +8,4 @@ function groups() {
   )
 }
 
-export default groups
+export default Groups

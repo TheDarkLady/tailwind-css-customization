@@ -1,6 +1,6 @@
 import React from 'react'
 
-function chats() {
+function Chats() {
   return (
     <div>
       <h1> Chats Component</h1>
@@ -8,4 +8,4 @@ function chats() {
   )
 }
 
-export default chats
+export default Chats

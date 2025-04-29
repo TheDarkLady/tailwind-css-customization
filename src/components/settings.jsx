@@ -1,6 +1,6 @@
 import React from 'react'
 
-function settings() {
+function Settings() {
   return (
     <div>
       <h1> Setting Component</h1>
@@ -8,4 +8,4 @@ function settings() {
   )
 }
 
-export default settings
+export default Settings
